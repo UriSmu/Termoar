@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" fill="none">
+  <title>Termometría Argentina</title>
+  <rect x="2" y="2" width="52" height="52" rx="12" fill="#AA3BFF"/>
+  <path d="M28 13c-3.866 0-7 3.134-7 7v14.5a8.5 8.5 0 1 0 14 6.5 8.47 8.47 0 0 0-3-6.5V20c0-3.866-3.134-7-7-7Z" fill="white" opacity="0.95"/>
+  <path d="M28 18a2 2 0 0 0-2 2v17.2a5.5 5.5 0 1 0 4 0V20a2 2 0 0 0-2-2Z" fill="white"/>
+  <text x="70" y="25" fill="#08060d" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="650">Termometría</text>
+  <text x="70" y="45" fill="#6b6375" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="500">Argentina</text>
+</svg>
